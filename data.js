@@ -47,7 +47,8 @@ const projects = [
     highlights: ["Created gene and crop request systems", "Explored genetics-based progression", "Built save data structures for nested game state"],
     tags: ["Unity", "C#", "Simulation", "Data Design", "Progression"] ,
     links: [
-      { label: "YouTube Clip", url: "https://www.youtube.com/" }
+      { label: "YouTube Clip", url: "https://www.youtube.com/" },
+      { label: "Google Play", url: "https://play.google.com/store/apps/details?id=com.SolidSteelSoftware.NeonZealotBabylon&hl=en_US" }
     ]
   },
   {
